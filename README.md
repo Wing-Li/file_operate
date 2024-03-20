@@ -1,10 +1,14 @@
 # file_operate
 
-### 预览图
+使用 Flutter 开发的一款 Mac 应用，该应用可以对文件进行批量移动操作。
+
+## 预览图
 
 ![image](https://github.com/Wing-Li/file_operate/blob/master/preview/file_opt.png)
 
 ***
+
+## 打包方式
 
 1. 在命令行中进入Flutter项目的根目录，运行以下命令将应用程序构建为Release版本：
 
